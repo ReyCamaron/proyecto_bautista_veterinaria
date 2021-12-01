@@ -25,7 +25,7 @@
 
                                     <input type="date" class="form-control mb-3" name="fecha" placeholder="Fecha">
                                     <input type="text" class="form-control mb-3" name="empleado" placeholder="ID del empleado">
-                                    <input type="text" class="form-control mb-3" name="consultrio" placeholder="Consultorio">
+                                    <input type="text" class="form-control mb-3" name="consultorio" placeholder="Consultorio">
                                     <input type="text" class="form-control mb-3" name="procedimiento" placeholder="Procedimiento">
                                     <input type="text" class="form-control mb-3" name="receta" placeholder="Receta">
                                     <input type="text" class="form-control mb-3" name="medicamento" placeholder="Medicamento">
@@ -39,7 +39,7 @@
                                 <thead class="table-success table-striped" >
                                     <tr>
                                         <th>Fecha</th>
-                                        <th>idEpmleado</th>
+                                        <th>Id Epmleado</th>
                                         <th>Consultorio</th>
                                         <th>Procedimiento</th>
                                         <th>Receta</th>

@@ -3,7 +3,7 @@ include("conexion.php");
 $con=conectar();
 
 $fecha=$_POST['fecha'];
-$empleado=$_POST['idempleado'];
+$empleado=$_POST['empleado'];
 $consultorio=$_POST['consultorio'];
 $procedimiento=$_POST['procedimiento'];
 $receta=$_POST['receta'];
